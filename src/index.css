@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Muli",sans-serif !important;
+}
+.menu_active{
+  font-weight: bold;
+  border-bottom: 2px solid #990011FF;
+}
+.navbar-brand{
+  font-size: 2.9rem !important;
+  color: #990011FF !important;
+}
+.nav-link{
+  color:#00539CFF !important;
+  text-transform: capitalize !important;
+  padding: auto;
+}
+.navbar a:hover{
+  color: rgb(8, 255, 28) !important;
+}
+.brand-name{
+  font-weight: bold;
+  color: #52e226f1 !important;
+}
+#header h1{
+margin: 0 0 10px 0 !important;
+font-size: 41px !important;
+font-weight: 400 !important;
+color: rgb(73, 138, 243);
+
+}
+#header h2{
+  color: rgb(8, 146, 238) !important;
+  font-weight: 400 !important;
+
+}
+#header .btn-get-started{
+font-weight: 500;
+font-size: 12px;
+letter-spacing: 1px;
+display: inline-block;
+padding: 10px 25px;
+border-radius: 50px;
+transition: 0.3s;
+color: rgb(34, 34, 34);
+border: 2px solid blue;
+text-decoration: none;
+}
+#header .btn-get-started:hover{
+  background: rgb(181, 233, 10) !important;
+  color: rgb(231, 29, 29);
+}
+@-webkit-keyframes up-down {
+  0%{
+    transform: translateY(10px) !important;
+
+  }
+  100% {
+    transform: translateY(-10px) !important;
+  }
+}
+@keyframes up-down {
+  0%{
+    transform: translateY(10px) !important;
+
+  }
+  100% {
+    transform: translateY(-10px) !important;
+  }
+}
+body{
+  background-color:#FCF6F5FF !important;
+}
+#header .animated{
+  animation: up-down 2s ease-in-out infinite alternate-reverse-both;
+}
+.card-img-top{
+  size: 100px !important;
+}
+.text-center{
+  font-weight: bold;
+  color: #00539CFF  !important;
+}
+.text-center:hover{
+  color:  rgb(8, 255, 28)!important;
+}
+.card{
+  align-self:auto !important;
+width: 15rem !important;
+height: auto !important;}
+
+.btn-get-started1{
+  font-weight: 500;
+  font-size: 12px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 10px 25px;
+  border-radius: 50px;
+  transition: 0.3s;
+  color: rgb(16, 179, 243);
+  border: 2px solid blue;
+  text-decoration: none;
+  }
+  .btn-get-started1:hover{
+    background: rgb(240, 240, 240) !important;
+    color: rgb(3, 0, 0);
+  }
+  #formnew{
+    background-color: transparent !important;
+  }
+#exampleFormControlTextarea1{
+  background-color: transparent !important;
+}
+#exampleFormControlInput1{
+  background-color: transparent !important;
+}
+.form-label{
+  color: rgb(22, 136, 236);
+}
+.card{
+  background-color: transparent !important;
+}
+.card-text{
+  color: rgb(67, 94, 117);
+}
+.card-title{
+  color: rgb(30, 160, 235);
+  font-weight: bold;
+}
+.card-img-top{
+  width:15rem !important;
+  height: 15rem !important;
+}
+.mt-2{
+  color:rgb(8, 146, 238) ;
+}
