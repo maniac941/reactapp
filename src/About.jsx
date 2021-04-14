@@ -7,14 +7,14 @@ import web from "../src/Static/Images/blast.gif"
 const About = () => {
     return (
         <>
-         <Common name="Welcome  to the about section of"
+         <Common name=" About Us"
          imgsrc = {web} 
          visit="/Contact" 
          btnname="Contact Us"
-         text2 = "For all your projects need we have a perfect match for you.Contact us if you need a wbesite for yourself."
-         text3 ="Feel free to Contact us "
-         />
-        </>
+         text2 = "We are a team of talented developers making interactive websites."
+         text3 ="Contact us now! "
+         />                              
+ </>
     );
 
 };

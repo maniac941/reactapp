@@ -14,14 +14,14 @@ const Common = (props) => {
                   <div className = "row">
                 <div className = "col-md-6 pt-5 pt-lg-0 order-2 order-1 d-flex justify-content-center flex-column">
                     
-                    <h1>{props.name} <strong className ="brand-name">BrainyWeb</strong>
+                    <h1>{props.name} <strong className ="brand-name">Webniac</strong>
                     </h1>
                     <h2 className="my-3">
                         {props.text2}
                     </h2>
                      <div className = "mt-3">
                          <NavLink to={props.visit} className="btn-get-started">{props.btnname}</NavLink>
-                         <p className="mt-2">{props.text3}</p>
+                         <p className="mt-2" id="new">{props.text3}</p>
                      </div>
                     </div> 
                     <div className = " col-lg-6 order-1 order-lg-2 header-img">

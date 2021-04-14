@@ -19,10 +19,10 @@ const Contact = () => {
   <input type="text" className="form-control" id="fname" name="fname" placeholder="Jhon Clen" required/>
 </div>
 <div className="mb-3">
-<label for="email" className="form-label">Email-</label>
+<label for="email" className="form-label">Email</label>
 <input type="email" className="form-control"  id="email" name="email" placeholder="name@example.com "required/>
  
-<label for="phone" className="form-label">Phone no-</label>
+<label for="phone" className="form-label">Phone</label>
 <input type="number" className="form-control" id="phone" name="phone" maxlength="10" placeholder="1234567890"/>
 
 <label for="message" name="message" className="form-label">Your Message</label>

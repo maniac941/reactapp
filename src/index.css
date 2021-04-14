@@ -1,57 +1,65 @@
-@import url('https://fonts.googleapis.com/css2?family=Mulish&display=swap');
-*{
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  font-family: "Muli",sans-serif !important;
+body {
+  font-family: Arial, Helvetica, sans-serif !important;
+  margin: 0 !important;
 }
+
+html {
+  box-sizing: border-box !important;
+}
+
 .menu_active{
-  font-weight: bold;
-  border-bottom: 2px solid #990011FF;
+  font-weight: bold  !important;
+  border-bottom: 2px solid #990011FF  !important;
 }
 .navbar-brand{
   font-size: 2.9rem !important;
-  color: #990011FF !important;
+  color: rgb(0, 147, 245) !important;
 }
 .nav-link{
   color:#00539CFF !important;
   text-transform: capitalize !important;
-  padding: auto;
+  padding: auto  !important;
 }
 .navbar a:hover{
   color: rgb(8, 255, 28) !important;
 }
 .brand-name{
-  font-weight: bold;
+  font-weight: bold  !important;
   color: #52e226f1 !important;
 }
 #header h1{
 margin: 0 0 10px 0 !important;
-font-size: 41px !important;
+font-size: 34px !important;
 font-weight: 400 !important;
-color: rgb(73, 138, 243);
+margin-left: 2rem!important;
+margin-top: 1rem!important;
+
+color: rgb(73, 138, 243)  !important;
 
 }
 #header h2{
-  color: rgb(8, 146, 238) !important;
-  font-weight: 400 !important;
+  font-size: 28px !important;
 
+  color: rgb(67, 99, 116) !important;
+  font-weight: 400 !important;
+  margin-left: 2rem!important;
 }
 #header .btn-get-started{
-font-weight: 500;
-font-size: 12px;
-letter-spacing: 1px;
-display: inline-block;
-padding: 10px 25px;
-border-radius: 50px;
-transition: 0.3s;
-color: rgb(34, 34, 34);
-border: 2px solid blue;
-text-decoration: none;
+font-weight: 500  !important;
+font-size: 12px  !important;
+letter-spacing: 1px  !important;
+margin-left: 2rem!important;
+display: inline-block  !important;
+padding: 10px 25px  !important;
+border-radius: 50px  !important;
+transition: 0.3s  !important;
+color: rgb(34, 34, 34)  !important;
+border: 2px solid blue  !important;
+text-decoration: none  !important;
 }
 #header .btn-get-started:hover{
-  background: rgb(181, 233, 10) !important;
-  color: rgb(231, 29, 29);
+  background: rgb(148, 233, 10) !important;
+  color: rgb(231, 29, 29)  !important;
 }
 @-webkit-keyframes up-down {
   0%{
@@ -72,16 +80,16 @@ text-decoration: none;
   }
 }
 body{
-  background-color:#FCF6F5FF !important;
+  background-color:rgb(255, 255, 255) !important;
 }
 #header .animated{
-  animation: up-down 2s ease-in-out infinite alternate-reverse-both;
+  animation: up-down 2s ease-in-out infinite alternate-reverse-both  !important;
 }
 .card-img-top{
   size: 100px !important;
 }
 .text-center{
-  font-weight: bold;
+  font-weight: bold  !important;
   color: #00539CFF  !important;
 }
 .text-center:hover{
@@ -93,20 +101,22 @@ width: 15rem !important;
 height: auto !important;}
 
 .btn-get-started1{
-  font-weight: 500;
-  font-size: 12px;
-  letter-spacing: 1px;
-  display: inline-block;
-  padding: 10px 25px;
-  border-radius: 50px;
-  transition: 0.3s;
-  color: rgb(16, 179, 243);
-  border: 2px solid blue;
-  text-decoration: none;
+  font-weight: 500  !important;
+  font-size: 12px  !important;
+  position: relative center !important;
+  margin-bottom: 3rem  !important;
+  letter-spacing: 1px  !important;
+  display: inline-block  !important;
+  padding: 10px 25px  !important;
+  border-radius: 50px  !important;
+  transition: 0.3s  !important;
+  color: rgb(16, 179, 243)  !important;
+  border: 2px solid blue  !important;
+  text-decoration: none  !important;
   }
   .btn-get-started1:hover{
-    background: rgb(240, 240, 240) !important;
-    color: rgb(3, 0, 0);
+    background: rgb(148, 233, 10) !important;
+    color: rgb(231, 29, 29)  !important;
   }
   #formnew{
     background-color: transparent !important;
@@ -118,22 +128,33 @@ height: auto !important;}
   background-color: transparent !important;
 }
 .form-label{
-  color: rgb(22, 136, 236);
+  color: rgb(22, 136, 236)  !important;
 }
 .card{
   background-color: transparent !important;
 }
 .card-text{
-  color: rgb(67, 94, 117);
+  color: rgb(67, 94, 117)  !important;
 }
 .card-title{
-  color: rgb(30, 160, 235);
-  font-weight: bold;
+  color: rgb(30, 160, 235)  !important;
+  font-weight: bold  !important;
 }
 .card-img-top{
   width:15rem !important;
   height: 15rem !important;
 }
 .mt-2{
-  color:rgb(8, 146, 238) ;
+  color:rgb(8, 146, 238)   !important;
+  padding: auto !important;
 }
+#new{
+  margin-left: 2.5rem!important;
+  margin-top: 1rem!important;
+}
+.navbar-toggler{
+  outline:none !important;
+  outline-style: none !important;
+  margin-top: 4px !important;
+}
+

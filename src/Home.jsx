@@ -11,9 +11,8 @@ const Home = () => {
             imgsrc = {web} 
             visit="/Service" 
             btnname="Get Started"
-            text2 = "We are a team of talented developers making interactive websites."
-            text3 ="Feel free to explore. "
-
+            text2 = "For all your projects need we have a perfect match for you.  Contact us if you want to show your presence online."
+            text3 ="Explore for more. "
             />
 
         </>
