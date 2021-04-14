@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/webniac/static/css/main.4d96da79.chunk.css",
+    "main.js": "/webniac/static/js/main.27e49663.chunk.js",
+    "main.js.map": "/webniac/static/js/main.27e49663.chunk.js.map",
+    "runtime-main.js": "/webniac/static/js/runtime-main.161ed4ab.js",
+    "runtime-main.js.map": "/webniac/static/js/runtime-main.161ed4ab.js.map",
+    "static/css/2.54370922.chunk.css": "/webniac/static/css/2.54370922.chunk.css",
+    "static/js/2.b34dc3d6.chunk.js": "/webniac/static/js/2.b34dc3d6.chunk.js",
+    "static/js/2.b34dc3d6.chunk.js.map": "/webniac/static/js/2.b34dc3d6.chunk.js.map",
+    "index.html": "/webniac/index.html",
+    "static/css/2.54370922.chunk.css.map": "/webniac/static/css/2.54370922.chunk.css.map",
+    "static/css/main.4d96da79.chunk.css.map": "/webniac/static/css/main.4d96da79.chunk.css.map",
+    "static/js/2.b34dc3d6.chunk.js.LICENSE.txt": "/webniac/static/js/2.b34dc3d6.chunk.js.LICENSE.txt",
+    "static/media/and.791782db.gif": "/webniac/static/media/and.791782db.gif",
+    "static/media/blast.e2c4668c.gif": "/webniac/static/media/blast.e2c4668c.gif",
+    "static/media/dat.3d80c119.gif": "/webniac/static/media/dat.3d80c119.gif",
+    "static/media/ddm.56049d59.gif": "/webniac/static/media/ddm.56049d59.gif",
+    "static/media/des.82120eaa.gif": "/webniac/static/media/des.82120eaa.gif",
+    "static/media/fan.c681a807.gif": "/webniac/static/media/fan.c681a807.gif",
+    "static/media/oka.5d4da42e.gif": "/webniac/static/media/oka.5d4da42e.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.161ed4ab.js",
+    "static/css/2.54370922.chunk.css",
+    "static/js/2.b34dc3d6.chunk.js",
+    "static/css/main.4d96da79.chunk.css",
+    "static/js/main.27e49663.chunk.js"
+  ]
+}
